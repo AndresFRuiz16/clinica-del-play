@@ -1,10 +1,11 @@
 .fondocs{
     background-image: url("img/211201164602-file-sony-playstation-5-microsoft-xbox-series-x-consoles-restricted-super-tease.png");
     background-position: center center ;
-    padding: 2% 30% 4% 10%;
+    padding: 2% 40% 4% 10%;
     background-size: cover;
 }
 .textocs{
     text-align: left;
     color: #ffffffff;
+    font-size: 35px;
 }

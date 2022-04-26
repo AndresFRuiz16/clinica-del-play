@@ -12,3 +12,12 @@ function escuchar(event){
     }
         bandera=!bandera
 }
+let producto={
+    nombre:"ps4",
+    capacidad:"1TB",
+    foto:"Nan",
+    estado:"segunda",
+    precio:500000
+}
+console.log(producto)
+console.log(producto.nombre)
